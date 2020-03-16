@@ -1,7 +1,7 @@
 # Hackintosh Laptop MSI GL62 7RD
 
 # Info
-- CPU: Intel 7700HQ
+- CPU: Intel Core i7 - 7700HQ
 - Sound: ALC899
 - Graphics: Intel HD630 - GTX 1050
 - Wifi: DW1560
