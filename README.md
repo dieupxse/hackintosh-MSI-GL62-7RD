@@ -21,3 +21,6 @@
 - GTX 1050
 # Support
 Currently support latest version of MacOS. I'm running MacOS Catalina 10.15.3
+
+# Note
+Please using Clover Configuration to Generate Serial Number and UUID
