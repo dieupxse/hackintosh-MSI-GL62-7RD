@@ -1,4 +1,4 @@
-# hackintosh-MSI-GL62-7RD
+# Hackintosh Laptop MSI GL62 7RD
 
 # Info
 - CPU: Intel 7700HQ
