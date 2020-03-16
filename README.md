@@ -3,8 +3,11 @@
 # Info
 - CPU: Intel Core i7 - 7700HQ
 - Sound: ALC899
-- Graphics: Intel HD630 - GTX 1050
-- Wifi: DW1560
+- Graphics: Intel HD630 Full HD - GTX 1050
+- Wifi: DW1560 (BCM94352Z)
+- SSD: NVME PM961 120GB for Hackintosh
+- SSD: Kingston 120GB Sata 3 for Windows
+- HDD: 1TB for Storage
 
 # Working
 - Sound
