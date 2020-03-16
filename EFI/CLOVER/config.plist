@@ -758,11 +758,11 @@
 		<key>BiosVersion</key>
 		<string>MBP141.88Z.F000.B00.1812191142</string>
 		<key>Board-ID</key>
-		<string>Mac-B4831CEBD52A0C4C</string>
+		<string></string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C027353034NHWVPFB</string>
+		<string></string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -792,9 +792,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro14,1</string>
 		<key>SerialNumber</key>
-		<string>C02V9AYQHV29</string>
+		<string></string>
 		<key>SmUUID</key>
-		<string>4F587211-8463-4301-B1CE-DED5EB6E1A32</string>
+		<string></string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
