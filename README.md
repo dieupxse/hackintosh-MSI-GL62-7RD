@@ -1,0 +1,1 @@
+# hackintosh-MSI-GL62-7RD
